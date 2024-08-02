@@ -12,7 +12,7 @@ Gebruik
 Script kopiëren en aanpassen: Stel de coördinaten en het gegevensformaat in.
 
 Script uitvoeren:
-python bgt_downloader.py
+python downloadBGTvanuitPDOK.py
 Het gedownloade bestand wordt opgeslagen op C:/temp/downloaded_file.zip. Pas deze locatie aan indien nodig.
 
 Aanpassen
